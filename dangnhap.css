@@ -1,0 +1,16 @@
+.dangnhap{
+	width: 400px;
+	height: 200px;
+	color: blue;
+}
+#dangnhap1{
+	color: blue;
+	font-size: 15px;
+	float: left;
+	margin: 3px 3px 3px 3px;
+	padding-left:10px;
+	text-align: left;
+	line-height: 30px;
+	text-decoration: none;
+
+}
